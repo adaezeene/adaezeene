@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adaeze! <br/> <a href="https://www.linkedin.com/in/adaezeene/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux</b>
   - [Managing File Permissions in Linux](https://github.com/adaezeene/FilePermissionsinLinux)
