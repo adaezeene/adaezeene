@@ -3,6 +3,8 @@
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
 
+- <b>Python 3</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Incident Handler's Journal</b>
   - [Incident Handler's Journal](https://github.com/adaezeene/incidenthandlerjournal)
 - <b>SQL</b>
@@ -14,9 +16,7 @@
 - <b>Incident Report Analysis</b>
   - [ICMP Flood Incident Report Analysis](https://github.com/adaezeene/IncidentReportAnalysis)
 
-  
-- <b>Python 3</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 
 <h2> 🎓 Certifications:</h2>
