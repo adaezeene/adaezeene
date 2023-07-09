@@ -15,7 +15,7 @@
   - [ICMP Flood Incident Report Analysis](https://github.com/adaezeene/IncidentReportAnalysis)
 
   
-- <b>Python</b>
+- <b>Python 3</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
