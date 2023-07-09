@@ -3,6 +3,8 @@
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
 
+- <b>Incident Handler's Journal</b>
+  - [Incident Handler's Journal](https://github.com/adaezeene/incidenthandlerjournal)
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/adaezeene/SQLFilters/tree/main)
 - <b>Linux</b>
