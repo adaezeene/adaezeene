@@ -4,7 +4,7 @@
 
 
 - <b>Python 3</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Algorithm for file updates in Python](https://github.com/adaezeene/PythonAlgorithm)
 - <b>Incident Handler's Journal</b>
   - [Incident Handler's Journal](https://github.com/adaezeene/incidenthandlerjournal)
 - <b>SQL</b>
