@@ -21,13 +21,12 @@
 
 <h2> 🎓 Certifications:</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google Cybersecurity Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/95210a77-e92e-4cf2-96f0-11ac60c3539a/public_url)
 
 
 <h2> 🤳🏾 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adaeze Ene | LinkedIn" width="22px" src="https://www.linkedin.com/in/adaezeene/" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/adaezeene
